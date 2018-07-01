@@ -1,5 +1,5 @@
 # HawkEye
-This is a concept on intrusion detection using Python libraries face detection and OpenCV. 
+This is a concept on intrusion detection using Python libraries face detection and OpenCV
 
 
 ## This is done on Linux and Windows Platforms(Might work on MacOS) 
@@ -22,3 +22,5 @@ pip install OpenCV
 
 * If you cannot install opencv on windows,then go the link below:
 [https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html]
+
+
