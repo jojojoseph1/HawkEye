@@ -3,14 +3,14 @@ from twilio.rest import Client
 import cv2
 a=""
 video_capture = cv2.VideoCapture(0)
-obama_image = face_recognition.load_image_file(r"5.JPG")
-obama_face_encoding = face_recognition.face_encodings(obama_image)[0]
-biden_image = face_recognition.load_image_file(r"1.jpg")
-biden_face_encoding = face_recognition.face_encodings(biden_image)[0]
+first_image = face_recognition.load_image_file(r"5.JPG")
+first_face_encoding = face_recognition.face_encodings(first_image)[0]
+second_image = face_recognition.load_image_file(r"1.jpg")
+second_face_encoding = face_recognition.face_encodings(second_image)[0]
 
 known_face_encodings = [
-    obama_face_encoding,
-    biden_face_encoding
+    first_face_encoding,
+    second_face_encoding
 ]
 known_face_names = [
     "RaviTeja",
