@@ -24,3 +24,5 @@ pip install OpenCV
 [https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html]
 
 
+
+#### Remember that the images used in the above program are our own, in the place of `first_image object` in `Video_Face_Recognition.py` give an image from your local directory
