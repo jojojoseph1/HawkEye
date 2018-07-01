@@ -38,6 +38,10 @@ pip install OpenCV
 ![alt text](https://github.com/jojojoseph1/HawkEye/blob/master/Screenshot_20180701-104844.jpg "Message")
 
 
-** If the match occurs,The Name given in the arraylist in the program would be shown:
+### If the match occurs,The Name given in the arraylist in the program would be shown:
 ![alt text](https://github.com/jojojoseph1/HawkEye/blob/master/Screenshot%20from%202018-06-30%2013-28-32.png "Face Detection")
 
+
+
+## SUMMARY:
+``This Code has been made using OpenCV,Dlib,face-recognition and also the support of Twilio API.When the requirements are met(see requirements.txt),Run the code with your own known faces by providing your own images.we have given two known faces,once the faces are detected it shows the name associated with the known face.If an unknown face is dectected a message would be delivered to authorized number regarding the intruder.The same code can be edited and can be used on a server environment without having a directory of known images in local computer or You can also train images on another data model to get better accuracy.[As one image doesn't guarantee you 90% of accuracy).``
