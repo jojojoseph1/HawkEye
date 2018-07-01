@@ -26,3 +26,4 @@ pip install OpenCV
 
 
 #### Remember that the images used in the above program are our own, in the place of `first_image object` in `Video_Face_Recognition.py` give an image from your local directory
+``(You can also make use of a server and get photos from the server and make comparisons with those too)``
