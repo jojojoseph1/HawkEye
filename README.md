@@ -27,3 +27,12 @@ pip install OpenCV
 
 #### Remember that the images used in the above program are our own, in the place of `first_image object` in `Video_Face_Recognition.py` give an image from your local directory
 ``(You can also make use of a server and get photos from the server and make comparisons with those too)``
+
+
+
+
+### This code uses Twilio API to send messages in case of any intruder detection,(This can be done by a webcam):
+![alt text](https://github.com/jojojoseph1/HawkEye/blob/master/Screenshot%20from%202018-07-01%2010-45-43.png "Unknown Image")
+
+### The above person is unknown,this is where Twilio API comes into picture,(with an access token) we can send messages to a specific number about the intruder:
+![alt text](https://github.com/jojojoseph1/HawkEye/blob/master/Screenshot_20180701-104844.jpg "Message")
