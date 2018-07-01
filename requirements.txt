@@ -1,0 +1,6 @@
+The requirements are:
+
+1.OpenCV
+2.dlib
+3.face-recognition
+4.twilio api
