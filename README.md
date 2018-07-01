@@ -36,3 +36,8 @@ pip install OpenCV
 
 ### The above person is unknown,this is where Twilio API comes into picture,(with an access token) we can send messages to a specific number about the intruder:
 ![alt text](https://github.com/jojojoseph1/HawkEye/blob/master/Screenshot_20180701-104844.jpg "Message")
+
+
+** If the match occurs,The Name given in the arraylist in the program would be shown:
+![alt text](https://github.com/jojojoseph1/HawkEye/blob/master/Screenshot%20from%202018-06-30%2013-28-32.png "Face Detection")
+
